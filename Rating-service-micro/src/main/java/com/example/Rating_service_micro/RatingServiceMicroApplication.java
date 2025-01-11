@@ -1,13 +1,13 @@
-package com.hotel;
+package com.example.Rating_service_micro;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class RatingServiceApplication {
+public class RatingServiceMicroApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(RatingServiceApplication.class, args);
+		SpringApplication.run(RatingServiceMicroApplication.class, args);
 	}
 
 }
